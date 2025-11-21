@@ -8,4 +8,5 @@ Demo
 
 <img src="demo_1.png" alt="Demo API"></img>
 <img src="demo_2.png" alt="Demo API"></img>
+
  Ứng dụng Android lấy dữ liệu từ API và hiển thị danh sách món ăn.
